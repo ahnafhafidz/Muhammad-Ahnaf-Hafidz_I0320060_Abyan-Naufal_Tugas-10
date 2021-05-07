@@ -1,0 +1,13 @@
+Nama: Muhammad Ahnaf Hafidz
+NIM: I0320060
+Kelas: B
+Angkatan: 2020
+Umur: 19
+Alamat: Yogyakarta
+
+Nama: M Abel Alambana A
+NIM: I0320058
+Kelas: B
+Angkatan: 2020
+Umur: 19
+Alamat: Tuban
